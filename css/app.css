@@ -18,3 +18,19 @@ nav a{
 	color: #000;
 	text-transform: capitalize;
 }
+
+.slider-next{
+	height: 35px;
+	width: 35px;
+	background-color: #151515;
+	/*opacity: 0.5px;*/
+}
+
+.slider-caption{
+	top: 270px;
+}
+
+.about-sanergy {
+    height: 102px;
+    width: 90px;
+}
