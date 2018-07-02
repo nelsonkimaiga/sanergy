@@ -13,3 +13,8 @@ i.fab {
   padding: 0.5em 0.6em;
 
 }
+
+nav a{
+	color: #000;
+	text-transform: capitalize;
+}
