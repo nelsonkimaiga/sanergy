@@ -38,3 +38,43 @@ nav a{
 .leadership{
 	background: #e5e5e5;
 }
+
+#operators{
+	background-color:#fff;
+    border:2.5px solid #0099cc;    
+    height:100px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:100px;
+}
+
+#fresh-life-toilets{
+	background-color:#fff;
+    border:2.5px solid #ffcc00;    
+    height:150px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:150px;
+}
+
+#users{
+	background-color:#fff;
+    border:2.5px solid #ffcc33;    
+    height:180px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:180px;
+}
+
+#waste{
+	background-color:#fff;
+    border:2.5px solid #339933;    
+    height:200px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:200px;
+}
