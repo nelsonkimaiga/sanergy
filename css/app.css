@@ -52,11 +52,11 @@ nav a{
 #fresh-life-toilets{
 	background-color:#fff;
     border:2.5px solid #ffcc00;    
-    height:150px;
+    height:140px;
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    width:150px;
+    width:140px;
 }
 
 #users{
@@ -77,4 +77,26 @@ nav a{
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
     width:200px;
+}
+
+
+.centered {
+   text-align: center;
+   font-size: 0;
+}
+.centered > div {
+   float: none;
+   display: inline-block;
+   text-align: left;
+   font-size: 13px;
+}
+
+.sanergy-footer{
+   padding-bottom: 3rem!important;
+   background-color: #006699;
+   color: #fff;
+}
+
+footer{
+    display: block;
 }
