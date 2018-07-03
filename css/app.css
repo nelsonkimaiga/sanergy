@@ -1,3 +1,66 @@
+/*fonts*/
+@font-face {
+  font-family: 'Graphik Bold';
+  src: url("/fonts/Graphik-Bold.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'Graphik Light';
+  src: url("/fonts/Graphik-Light.otf") format("opentype");
+line-height: 20px;
+font-style: normal;
+color: rgb(0, 0, 0);
+}
+
+@font-face {
+  font-family: 'Graphik Regular';
+  src: url("/fonts/Graphik-Regular.otf") format("opentype");
+font-size: 14px;
+line-height: 20px;
+font-style: normal;
+color: rgb(0, 0, 0);
+}
+
+
+p, a, footer{
+    font-family: 'Graphik Light';
+}
+
+
+a,
+h1,
+h2{
+    color: #339933;
+}
+
+
+.caption-one{
+    color: #fff;
+    font-size: 58px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.numbers{
+    font-family: 'Graphik Bold';
+}
+
+.numbers{
+    font-weight: 700px;
+}
+
+.what-we-do{
+    font-family: 'Graphik Light';
+}
+
+
+
 .span10 .offset1{
 	display: inline;
 	width: 20px;
@@ -99,4 +162,14 @@ nav a{
 
 footer{
     display: block;
+}
+
+.footer-text{
+    font-family: 'Graphik Regular';
+    font-size: 11px;
+}
+
+.subscribe-button{
+    font-family: 'Graphik Bold';
+    font-size: 110px;
 }
