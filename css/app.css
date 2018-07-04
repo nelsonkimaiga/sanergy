@@ -53,6 +53,7 @@ h5,
 
 .numbers{
     font-weight: 700px;
+    color: #4e4a4a;
 }
 
 .what-we-do{
@@ -105,11 +106,11 @@ nav a{
 #operators{
 	background-color:#fff;
     border:2.5px solid #0099cc;    
-    height:100px;
+    height:125px;
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    width:100px;
+    width:125px;
 }
 
 #fresh-life-toilets{
@@ -201,4 +202,12 @@ footer{
     display: inline-block;
     text-decoration: none;
     padding: 3px;
+}
+
+.leaders-names{
+    font-size: 1.0rem;
+}
+
+.co-founder{
+    font-size: 0.9rem;
 }
