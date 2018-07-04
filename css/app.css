@@ -39,7 +39,7 @@ h2{
 
 .caption-one{
     color: #fff;
-    font-size: 58px;
+    font-size: 60px;
 }
 
 h1,
@@ -60,6 +60,9 @@ h5,
     font-family: 'Graphik Light';
 }
 
+p.what-we-do{
+    font-size: 12px;
+}
 
 
 .span10 .offset1{
