@@ -207,3 +207,16 @@ ul#footer-social li{
 .footer-header{
     font-size: 13px;
 }
+
+.tag{
+    height: 22px;
+    width: 35px;
+    border: 2px solid #fff;
+    text-align: center;
+    font-size: 6px;
+    color: #fff;
+}
+
+ul#footer-tags li{
+    display:inline;
+}
