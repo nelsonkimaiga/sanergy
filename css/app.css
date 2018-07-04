@@ -98,8 +98,8 @@ nav a{
     width: 90px;
 }
 
-.leadership{
-	background: #e5e5e5;
+.leadership, .entreprenuer{
+	background-color: #f6f6f6;
 }
 
 #operators{
@@ -162,6 +162,7 @@ nav a{
 
 footer{
     display: block;
+    border-top: 6px solid #339933;
 }
 
 .footer-text{
@@ -201,4 +202,3 @@ footer{
     text-decoration: none;
     padding: 3px;
 }
-
