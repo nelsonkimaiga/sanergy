@@ -182,31 +182,14 @@ footer{
 .all-rights{
     font-family: 'Graphik Regular';
     font-size: 9px;
-    margin-top:90px;
+    margin-top:94px;
 }
 
-.footer-social ul{
-    list-style: none;
-    padding: 0;
-    text-align: center;
+
+ul#footer-social li{
+    display:inline;
 }
 
-.footer-social{
-    display: inline-block;
-    text-decoration: none;
-}
-
-.social-media-icons ul {
-    list-style: none;
-    padding: 0;
-    text-align: center;
-}
-
-.social-media-icons a { 
-    display: inline-block;
-    text-decoration: none;
-    padding: 3px;
-}
 
 .leaders-names{
     font-size: 1.0rem;
@@ -219,4 +202,8 @@ footer{
 .social-button{
     width: 25px;
     height: 25px;
+}
+
+.footer-header{
+    font-size: 13px;
 }
