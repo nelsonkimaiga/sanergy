@@ -178,3 +178,27 @@ footer{
     font-size: 9px;
     margin-top:90px;
 }
+
+.footer-social ul{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.footer-social{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.social-media-icons ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.social-media-icons a { 
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px;
+}
+
