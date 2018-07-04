@@ -44,7 +44,8 @@
 
 
 nav{
-    font-family: 'Graphik Regular';
+    font-family: 'Graphik Medium';
+    font-weight: 550;
 }
 
 p, a {
@@ -56,7 +57,7 @@ p, a {
     font-weight: 60;
 }
 
-.what-we-do-heading{
+h4, .what-we-do-heading{
     font-family: 'Graphik Bold';
 }
 
@@ -207,7 +208,7 @@ h5.footer-header{
 
 
 .footer-text{
-    font-family: 'Graphik Regular';
+    font-family: 'Graphik Medium';
     font-size: 11px;
 }
 
@@ -218,12 +219,16 @@ h5.footer-header{
 .all-rights{
     font-family: 'Graphik Bold';
     font-size: 9px;
-    margin-top:94px;
+    margin-top:130px;
 }
 
 
 ul#footer-social li{
     display:inline;
+}
+
+.footer-social{
+    margin-top: 32px;
 }
 
 
@@ -259,4 +264,29 @@ ul#footer-tags li{
 
 .footer-form{
     font-family: 'Graphik Bold';
+}
+
+.tagcloud a {
+    padding: 8px 14px;
+    line-height: 17px;
+    float: left;
+    text-decoration: none;
+    margin: 0 5px 5px 0;
+    display: inline-block;
+    width: auto;
+    background: none;
+    color: #fff;
+    font-family: 'Graphik Bold';
+}
+
+.tagcloud a {
+    border: 1.8px solid;
+        border-top-color: #fff;
+        border-right-color: #fff;
+        border-bottom-color: #fff;
+        border-left-color: #fff;
+}
+
+.ecoworld_footer_widget {
+    text-align: left;
 }
