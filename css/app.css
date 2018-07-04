@@ -84,6 +84,7 @@ i.fab {
 nav a{
 	color: #000;
 	text-transform: capitalize;
+    font-size: 15px;
 }
 
 .slider-next{
@@ -213,4 +214,9 @@ footer{
 
 .co-founder{
     font-size: 0.9rem;
+}
+
+.social-button{
+    width: 25.5px;
+    height: 25.5px;
 }
